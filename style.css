@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.container img {
+  width: 100%;
+  display: block;
+}
+
+.container a {
+  display: block;
+  text-align: center;
+  padding: 15px;
+  background: linear-gradient(to right, yellow, green);
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+}
